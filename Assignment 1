@@ -1,0 +1,14 @@
+print("Name:", "Mahima Choudhary", "Age:", 22)
+print("My Hoppies are ","Study", "Read", "Story", sep=" , ")
+print("How", end=" ")
+print("Are You!")
+DOB = input("Enter your Date Of Birth: ")
+print("Hello My Date Of Birth is :,", DOB + "! Nice To Meet You.")
+
+
+Output
+
+Name: Mahima Choudhary Age: 22
+My Hoppies are  , Study , Read , Story
+How Are You!
+Hello My Date Of Birth is :, 22! Nice To Meet You.
